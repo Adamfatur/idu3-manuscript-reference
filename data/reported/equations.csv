@@ -1,0 +1,4 @@
+equation,expression,notes
+1,"Eval(Qs, Qe, Os) -> {Decision, Score, Feedback}",Qs student query; Qe expected query; Os output of Qs
+2,"P(n) = Pbase * D(n)",Pbase = 100; D(1) = 1.00; D(2) = 0.90; D(3) = 0.75
+3,"g = (post - pre) / (100 - pre)",Hake normalized gain; high at g >= 0.7; medium from 0.3 up to but not including 0.7; low below 0.3

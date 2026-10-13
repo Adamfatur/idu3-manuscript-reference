@@ -1,0 +1,4 @@
+attempt,decay_factor,points,reduction_percent,pedagogical_rationale
+1,1.00,100,,Full reward for accuracy
+2,0.90,90,10,Light penalty that encourages correction
+3,0.75,75,25,Meaningful penalty that maintains the incentive

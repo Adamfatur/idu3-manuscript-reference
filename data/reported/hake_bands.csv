@@ -1,0 +1,4 @@
+category,lower_inclusive,upper_exclusive
+low,,0.3
+medium,0.3,0.7
+high,0.7,

@@ -1,0 +1,5 @@
+group,description,printed_value_percent,kind
+Experimental,completion at the start of the semester,92,approximate
+Experimental,completion on every week of the semester,83,above this value
+Control,completion at the start of the semester,75,approximate
+Control,completion at week 14,28,approximate

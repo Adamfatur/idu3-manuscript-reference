@@ -1,0 +1,3 @@
+group,n,pre_mean,pre_sd,post_mean,post_sd,normalized_gain,hake_category,reported_p
+Experimental,28,32.4,8.7,81.2,10.3,0.72,High,<.001
+Control,28,31.1,9.2,59.4,13.6,0.41,Medium,

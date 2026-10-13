@@ -1,0 +1,9 @@
+rule,value
+max_attempts,3
+points_when_not_approved,0
+pbase,100
+temperature,0.1
+max_output_tokens,2048
+model,Google Gemini 2.0 Flash
+fast_path,identical output and the same tables
+llm_path,different tables or different output

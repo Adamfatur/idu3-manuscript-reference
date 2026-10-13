@@ -1,0 +1,8 @@
+phase,week_start,week_end,sql_topics,challenges
+Fundamental,1,3,"SELECT, WHERE, Pattern Matching (LIKE)",6
+Intermediate,4,5,"ORDER BY, Aggregate Functions (COUNT, SUM, AVG)",4
+Grouping,6,7,"GROUP BY, HAVING, Combined Aggregates",4
+DML,8,10,"INSERT, UPDATE, DELETE, Multi-row Operations",6
+Relational,11,12,"JOIN (INNER, LEFT, RIGHT), Subquery",4
+Integrative,13,13,Full CRUD Case Study,2
+Assessment,14,14,Final Integrative Project,2

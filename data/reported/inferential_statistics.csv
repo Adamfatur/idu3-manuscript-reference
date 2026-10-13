@@ -1,0 +1,7 @@
+quantity,printed_value,printed_decimals,source
+pre_test_t,0.58,2,"t(54) = 0.58, p = 0.563"
+post_test_t,7.21,2,"t(54) = 7.21, p < 0.001"
+cohens_d,1.80,2,Cohen's d = 1.80
+gain_difference,0.31,2,difference between the two printed normalized gains
+pre_test_p,0.563,3,p = 0.563
+mann_whitney_u,287.5,1,"voluntary retry, U = 287.5"
